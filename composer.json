@@ -1,5 +1,5 @@
 {
-  "name": "creativestyle/magesuite",
+  "name": "maxta/magesuite",
   "type": "metapackage",
   "description": "MageSuite main package remve elasticsearch and front-end ",
   "license": "OSL-3.0",
