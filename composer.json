@@ -26,7 +26,6 @@
     "creativestyle/magesuite-cms-product-backlink": "^1.0.0",
     "creativestyle/magesuite-cache": "^1.0.0",
     "creativestyle/magesuite-content-constructor-asset": "^1.0.0",
-    "creativestyle/magesuite-content-constructor": "^2.0.0",
-    "smile/elasticsuite": "^2.10"
+    "creativestyle/magesuite-content-constructor": "^2.0.0"
   }
 }
